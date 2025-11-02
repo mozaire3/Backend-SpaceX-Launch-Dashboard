@@ -379,7 +379,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Pour toute question ou problème :
 - Ouvrir une issue sur GitHub
-- Email : [kmozaire83@gmail.com]
+- Email : [votre-email@example.com]
 
 ---
 
+Made with ❤️ for the SpaceX community 🚀
